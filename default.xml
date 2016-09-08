@@ -32,7 +32,7 @@
   <project path="external/busybox" name="external_busybox" remote="val" revision="7.0" />
   <project path="external/skia" name="external_skia" remote="val" revision="7.0" />
   <project path="frameworks/base" name="frameworks_base" remote="val" revision="7.0" />
-  <project path="frameworks/native" name="frameworks_native" groups="pdk" remote="val" revision="7.0 />  
+  <project path="frameworks/native" name="frameworks_native" groups="pdk" remote="val" revision="7.0" />  
   <project path="frameworks/support" name="frameworks_support" groups="pdk-cw-fs,pdk-fs" remote="val" revision="7.0" />
   <project path="libcore" name="libcore" remote="val" revision="7.0" />
   <project path="packages/apps/CalendarWidget" name="packages_apps_CalendarWidget" remote="val" revision="7.0" />
