@@ -36,7 +36,7 @@
   <project path="libcore" name="libcore" remote="val" revision="7.0" />
   <project path="packages/apps/CalendarWidget" name="packages_apps_CalendarWidget" remote="val" revision="7.0" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="val" revision="7.0" />
-  <project path="packages/apps/WolvesDen" name="android_packages_apps_WolvesDen" remote="val" revision="7.0" />
+  <project path="packages/apps/WolvesDen" name="packages_apps_WolvesDen" remote="val" revision="7.0" />
   <project path="packages/providers/TelephonyProvider" name="packages_providers_TelephonyProvider" groups="pdk-cw-fs,pdk-fs" remote="val" revision="7.0" />
   <project path="packages/services/Telecomm" name="packages_services_Telecomm" groups="pdk-cw-fs,pdk-fs" remote="val" revision="7.0" />
   <project path="system/core" name="system_core" remote="val" revision="7.0" />
